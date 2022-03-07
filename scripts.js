@@ -44,7 +44,7 @@ const paypalBody = `
 
         <p>You've sent {{VALUEPRICE}} to {{VALUEEMAIL}}</p>
 
-        <br><br><br>
+        <br><br>
 
         <div class="header__nav--right">
             <div class="dx-auth-block profile__container">
