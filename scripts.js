@@ -57,6 +57,7 @@ const paypalBody = `
         <a href="#" onclick="goHome()"><b>Go to Summary</b></a>
     <body>
         <div>
+        <br>
             <p>Percentage fee paid</p>
             <p> You paid {{VALUEFEE}} % of the fee. Ensure that the fee is fully paid before the transaction appear in the recipient account</p>
 
